@@ -45,4 +45,4 @@ Successfully segmented 200 customers into 5 distinct groups — High Income High
 ---
 
 ## 👩‍💻 Author
-**Nandini Sharma** — Data Analytics Intern @ Oasis Infobyte
+**Nandani Sharma** — Data Analytics Intern @ Oasis Infobyte
